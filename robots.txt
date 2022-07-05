@@ -1,0 +1,3 @@
+Sitemap: https://mariantransport.com/sitemap.xml
+User-Agent: *
+Allow: /
